@@ -23,3 +23,8 @@ Repositório dedicado ao conteúdo e aos exercícios realizados ao longo do boot
 
   - Arquivos txt;
   - Arquivos csv;
+  - APIs
+
+## Projeto Final
+
+  - Utilizar dados de uma Api pública com dados da covid 19 e fazer algumas análises através de gráficos.
